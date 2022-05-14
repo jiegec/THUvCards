@@ -1,9 +1,10 @@
 # source: https://its.tsinghua.edu.cn/contact_us.jsp?urltype=tree.TreeTempUrl&wbtreeid=1091
 basic:
-  organization: 清华信息化技术中心校园网信息系统服务热线
+  organization: 清华信息化技术中心用户服务大厅
   cellPhone:
     - 62784859
     - 62771940
   email:
     - its@tsinghua.edu.cn
-  note: 08:00-22:00
+  workAddress:
+    street: 李兆基大楼东门一层B104室
