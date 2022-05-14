@@ -12,7 +12,8 @@ const plugin = (file, _, cb) => {
   for (const [key, value] of Object.entries(json.basic)) {
     vCard[key] = value
   }
-  vCard.photo.embedFromFile(path.replace('.yaml', '.png'))
+  // no photos
+  // vCard.photo.embedFromFile(path.replace('.yaml', '.png'))
   file.contents = Buffer.from(vCard.getFormattedString())
   cb(null, file)
 }

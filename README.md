@@ -1,13 +1,15 @@
-vCards CN
+THUvCards CN
 =====
 
 导入常用联系人头像，优化 iOS 来电、信息界面体验。
+
+Fork 自 [metowolf/vCards](https://github.com/metowolf/vCards)，收录清华常用联系人。
 
 ![Screenshot](https://user-images.githubusercontent.com/2666735/59692672-0b6bdf00-9218-11e9-881e-5856e263f3aa.png)
 
 ## 使用指南
 
- 1. 到 https://github.com/metowolf/vCards/releases 下载最新的打包文件 `archive.zip`；
+ 1. 到 https://github.com/jiegec/THUvCards/releases 下载最新的打包文件 `archive.zip`；
  2. 解压后，根据不同平台的指南导入 `vcf` 文件至 iCloud 中，推荐单独创建「黄页」分组方便管理和隐藏。
 
 ### macOS
@@ -22,7 +24,7 @@ vCards CN
 
 ## 请求收录
 
- 1. 打开 https://github.com/metowolf/vCards/issues/new/choose 页面，选择「vCard 新增请求」
+ 1. 打开 https://github.com/jiegec/THUvCards/issues/new/choose 页面，选择「vCard 新增请求」
  2. 完整填写相关信息
  3. 提交 `issue`，等待处理
 
