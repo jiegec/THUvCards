@@ -5,6 +5,8 @@ THUvCards CN
 
 Fork 自 [metowolf/vCards](https://github.com/metowolf/vCards)，收录清华常用联系人。
 
+如果需要在线查询清华相关电话，建议使用[清华大学后勤综合服务平台](http://93001.tsinghua.edu.cn:9000/public/views/framework/chat/wechatcheckphone_web/wechatcheckphone_first.html)。
+
 ![Screenshot](https://user-images.githubusercontent.com/2666735/59692672-0b6bdf00-9218-11e9-881e-5856e263f3aa.png)
 
 ## 使用指南
