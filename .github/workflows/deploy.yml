@@ -16,7 +16,9 @@ jobs:
         with:
           node-version: 16
       - name: Build
-        run: yarn build
+        run: |
+          yarn
+          yarn build
       - uses: "marvinpinto/action-automatic-releases@latest"
         with:
           repo_token: "${{ secrets.GITHUB_TOKEN }}"
